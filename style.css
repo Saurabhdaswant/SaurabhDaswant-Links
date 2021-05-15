@@ -25,15 +25,14 @@ span {
   font-family: "Poppins", sans-serif;
   color: #248aff;
   position: relative;
-  left: 8.5rem;
+  left: -8.5rem;
   font-size: 3rem;
 }
 
-/* .second__span {
-  position: absolute;
-  top: 28rem;
-  left: 20.8rem;
-} */
+.second__span {
+  position: relative;
+  left: 8.5rem;
+}
 h1 {
   color: #248aff;
   font-size: 5rem;
