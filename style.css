@@ -4,8 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #bddcff;
-  background-color: #171729;
+  background-color: #001833;
   font-family: "Rubik", sans-serif;
 }
 
@@ -21,7 +20,7 @@ a {
   text-decoration: none;
 }
 h1 {
-  color: #f9ed34;
+  color: #bddcff;
   font-size: 5rem;
 }
 .main__link {
@@ -33,7 +32,8 @@ h1 {
   height: 1px;
   margin: 0.8rem auto;
   padding: 1.7rem;
-  background-color: #2c2c46;
+  /* background-color: #2c2c46; */
+  background-color: #e0eeff57;
   border-radius: 5px;
 }
 
