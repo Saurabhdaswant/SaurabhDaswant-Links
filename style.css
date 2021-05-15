@@ -24,17 +24,16 @@ a {
 span {
   font-family: "Poppins", sans-serif;
   color: #248aff;
-  position: absolute;
-  top: 13rem;
-  left: 0.1rem;
+  position: relative;
+  left: 8.5rem;
   font-size: 3rem;
 }
 
-.second__span {
+/* .second__span {
   position: absolute;
   top: 28rem;
   left: 20.8rem;
-}
+} */
 h1 {
   color: #248aff;
   font-size: 5rem;
