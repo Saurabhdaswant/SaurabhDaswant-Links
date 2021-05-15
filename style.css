@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;900&display=swap");
 
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -19,6 +20,21 @@ main {
 a {
   text-decoration: none;
 }
+
+span {
+  font-family: "Poppins", sans-serif;
+  color: #248aff;
+  position: absolute;
+  top: 13rem;
+  left: 0.1rem;
+  font-size: 3rem;
+}
+
+.second__span {
+  position: absolute;
+  top: 28rem;
+  left: 20.8rem;
+}
 h1 {
   color: #248aff;
   font-size: 5rem;
@@ -28,7 +44,7 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 20rem;
+  width: 19rem;
   height: 1px;
   margin: 0.8rem auto;
   padding: 1.7rem;
