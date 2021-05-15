@@ -20,7 +20,7 @@ a {
   text-decoration: none;
 }
 h1 {
-  color: #bddcff;
+  color: #248aff;
   font-size: 5rem;
 }
 .main__link {
@@ -32,7 +32,6 @@ h1 {
   height: 1px;
   margin: 0.8rem auto;
   padding: 1.7rem;
-  /* background-color: #2c2c46; */
   background-color: #e0eeff57;
   border-radius: 5px;
 }
